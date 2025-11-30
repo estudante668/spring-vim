@@ -52,7 +52,7 @@ http://localhost:8080/olamundo
 ```json
 {"id": 1, "content": "Hello, World!"}
 
-http://localhost:8080/olamundo?name=User
+http://localhost:8080/olamundo?nome=User
 {"id": 2, "content": "Hello, User!"}
 
 ## 📘 Rodar
