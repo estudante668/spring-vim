@@ -45,14 +45,14 @@ src/
 
 ## 📘 Endpoints da API
 
-### GET `/greeting`
+### GET `/olamundo`
 
 #### Resposta Padrão
-http://localhost:8080/greeting
+http://localhost:8080/olamundo
 ```json
 {"id": 1, "content": "Hello, World!"}
 
-http://localhost:8080/greeting?name=User
+http://localhost:8080/olamundo?name=User
 {"id": 2, "content": "Hello, User!"}
 
 ## 📘 Rodar
